@@ -14,7 +14,6 @@ Hope you ❤️ the repo. Don't forget to follow.
 
 <!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style=" width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
 
-</div>
 
 [![webdevtanvir's github stats](https://github-readme-stats.vercel.app/api?username=webdevtanvir&show_icons=true\&icon_color=EDA2FF\&bg_color=30,4568dc,b06ab3\&title_color=fff\&text_color=fff)](https://github.com/webdevtanvir/)
 
@@ -28,3 +27,5 @@ Hope you ❤️ the repo. Don't forget to follow.
 [![Instagram](https://img.shields.io/badge/INSTRAGRAM-red)](https://www.instagram.com/webdev.tanvir)
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-blue)](https://www.linkedin.com/in/webdevtanvir)
 [![medium](https://img.shields.io/badge/MEDIUM-black)](https://medium.com/@webdevtanvir)
+
+</div>
