@@ -17,4 +17,4 @@ Hope you ❤️ the repo. Don't forget to follow.
 [linkedin]: https://www.linkedin.com/in/webdevtanvir/
 [medium]: https://medium.com/@webdevtanvir
 
-* [![Next](Next.js)]()
+* [![Next](Next.js)](https://nextjs.org)
