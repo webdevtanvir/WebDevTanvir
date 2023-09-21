@@ -12,7 +12,7 @@ Hope you ❤️ the repo. Don't forget to follow.
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/webdevtanvir/webdevtanvir/pulls)
 [![License](https://img.shields.io/badge/license-CC0-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-<!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
+<!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style=" width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
 
 </div>
 
@@ -22,9 +22,9 @@ Hope you ❤️ the repo. Don't forget to follow.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webdevtanvir&show_icons=true\&icon_color=EDA2FF\&bg_color=30,4568dc,b06ab3\&title_color=fff\&text_color=fff\&repo=tanvir-resume\&show_owner=true)](https://github.com/webdevtanvir/github-readme-stats)
 
-[![website](https://img.shields.io/badge/portfolio-blue)](https://www.tanvir-resume.vercel.app)
-[![mail](https://img.shields.io/badge/Mail-red)](mailto:developer.tanvir.contact@gmail.com.com)
-[![twitter](https://twitter.com/webdevtanvir)
-[![Instagram](https://www.instagram.com/webdev.tanvir)
-[![Linkedin](https://www.linkedin.com/in/webdevtanvir)
-[![medium](https://medium.com/@webdevtanvir)
+[![website](https://img.shields.io/badge/PORTFOLIO-blue)](https://www.tanvir-resume.vercel.app)
+[![mail](https://img.shields.io/badge/MAIL-red)](mailto:developer.tanvir.contact@gmail.com.com)
+[![twitter](https://img.shields.io/badge/TWITTER-black)](https://twitter.com/webdevtanvir)
+[![Instagram](https://img.shields.io/badge/INSTRAGRAM-red)](https://www.instagram.com/webdev.tanvir)
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-blue)](https://www.linkedin.com/in/webdevtanvir)
+[![medium](https://img.shields.io/badge/MEDIUM-black)](https://medium.com/@webdevtanvir)
