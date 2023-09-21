@@ -16,3 +16,5 @@ Hope you ❤️ the repo. Don't forget to follow.
 [instagram]: https://www.instagram.com/webdev.tanvir/
 [linkedin]: https://www.linkedin.com/in/webdevtanvir/
 [medium]: https://medium.com/@webdevtanvir
+
+* [![Next](Next.js)]()
