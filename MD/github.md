@@ -27,6 +27,8 @@ git push -u origin main
 ```bash
 
 git pull --rebase origin main
+git fetch origin
+git reset --hard origin/main
 
 ```
 
