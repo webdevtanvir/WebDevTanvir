@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=webdevtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://img.shields.io/github/followers/webdevtanvir?label=%20Followers&style=social" alt="Github Followers"> <a href="https://wakatime.com/@4c3b2983-750a-41d6-87f7-19c74c2b7b8e"><img src="https://wakatime.com/badge/user/4c3b2983-750a-41d6-87f7-19c74c2b7b8e.svg" alt="Total time coded since Jun 23 2023" /></a> 
+<img src="https://komarev.com/ghpvc/?username=webdevtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir" /> &nbsp; <img src="https://img.shields.io/github/followers/webdevtanvir?label=%20Followers&style=social" alt="Github Followers"> &nbsp; <a href="https://wakatime.com/@4c3b2983-750a-41d6-87f7-19c74c2b7b8e"><img src="https://wakatime.com/badge/user/4c3b2983-750a-41d6-87f7-19c74c2b7b8e.svg" alt="Total time coded since Jun 23 2023" /></a> 
 </p>
 
 <h3 align="center">A Passionate Web Developer & Designer</h3>
