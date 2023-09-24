@@ -4,17 +4,18 @@
 
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=webdevtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://img.shields.io/github/followers/webdevtanvir?label=%20Followers&style=social" alt="Github Followers"> <a href="https://wakatime.com/@4c3b2983-750a-41d6-87f7-19c74c2b7b8e"><img src="https://wakatime.com/badge/user/4c3b2983-750a-41d6-87f7-19c74c2b7b8e.svg" alt="Total time coded since Jun 23 2023" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=webdevtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://img.shields.io/github/followers/webdevtanvir?label=%20Followers&style=social" alt="Github Followers"> <a href="https://wakatime.com/@4c3b2983-750a-41d6-87f7-19c74c2b7b8e"><img src="https://wakatime.com/badge/user/4c3b2983-750a-41d6-87f7-19c74c2b7b8e.svg" alt="Total time coded since Jun 23 2023" /></a> 
+</p>
 
 <h3 align="center">A Passionate Web Developer & Designer</h3>
 <p align='center'>I'm a seasoned FrontendWebDeveloper with 3 years of experience in crafting visually captivating and user-friendly websites.
-ProficientinHTML, CSS, and JavaScript, I specialize in creating seamless and responsive interfaces. My expertise extends to React,
-enabling me to build dynamic and engaging user experiences. I'm dedicated to optimizing web performance and embrace a design driven approach to ensure exceptional UI/UX.
+Proficient in HTML, CSS, and JavaScript, I specialize in creating seamless and responsive interfaces. My expertise extends to React,
+enabling me to build dynamic and engaging user experiences. I'm dedicated to optimizing web performance and embracing a design-driven approach to ensure exceptional UI/UX.
  Most of the time I work with WordPress(Elementor Pro, Woocommerce, Crocoblock,Wp-rocket) Google Search Console , Canva & photoshop.</p>
 
 <br />
 
-<img align="right" alt="Coding" width="300" src="tanvir-coding.gif">
+<img align="right" alt="Coding" width="400" src="tanvir-coding.gif">
 
 - 🔭 I’m currently working on [Binary Pathsala](https://www.binarypathsala.com)
 
@@ -24,11 +25,11 @@ enabling me to build dynamic and engaging user experiences. I'm dedicated to opt
 
 - 👨‍💻 All of my projects are available at [tanvir-resume.vercel.app](tanvir-resume.vercel.app)
 
-- 💬 Ask me about : **website problems , website creation**
+- 💬 Ask me about: **website problems , website creation**
 
 - 📫 How to reach **Email: tanvir@seoartcreators.com**
 
-- ⚡ Fun fact : **I can work 12 hours non stop**
+- ⚡ Fun fact: **I can work 12 hours non-stop**
 
 
 
