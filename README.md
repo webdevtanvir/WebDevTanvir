@@ -4,8 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=webdevtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir" /> &nbsp; <img src="https://img.shields.io/github/followers/webdevtanvir?label=%20Followers&style=social" alt="Github Followers"> &nbsp; <a href="https://wakatime.com/@4c3b2983-750a-41d6-87f7-19c74c2b7b8e"><img src="https://wakatime.com/badge/user/4c3b2983-750a-41d6-87f7-19c74c2b7b8e.svg" alt="Total time coded since Jun 23 2023" /></a> 
-</p>
+<img src="https://komarev.com/ghpvc/?username=webdevtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://img.shields.io/github/followers/webdevtanvir?label=%20Followers&style=social" alt="Github Followers"> <a href="https://wakatime.com/@4c3b2983-750a-41d6-87f7-19c74c2b7b8e"><img src="https://wakatime.com/badge/user/4c3b2983-750a-41d6-87f7-19c74c2b7b8e.svg" alt="Total time coded since Jun 23 2023" /></a> </p>
 
 <h3 align="center">A Passionate Web Developer & Designer</h3>
 <p align='center'>I'm a seasoned FrontendWebDeveloper with 3 years of experience in crafting visually captivating and user-friendly websites.
@@ -168,6 +167,8 @@ enabling me to build dynamic and engaging user experiences. I'm dedicated to opt
 </table>
 <br>
 </div>
+
+## Most Used Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevtanvir\&layout=compact\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true)
 
