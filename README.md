@@ -1,10 +1,36 @@
 <a href="https://www.linkedin.com/in/webdevtanvir" target="_blank" rel="noreferrer">
-    <img src="github-profile.png" align="center" alt="banner" />
+    <img src="Github Banner.gif" align="center" alt="banner" />
 </a>
 
+
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=webdevtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://img.shields.io/github/followers/webdevtanvir?label=%20Followers&style=social" alt="Github Followers"> <a href="https://wakatime.com/@4c3b2983-750a-41d6-87f7-19c74c2b7b8e"><img src="https://wakatime.com/badge/user/4c3b2983-750a-41d6-87f7-19c74c2b7b8e.svg" alt="Total time coded since Jun 23 2023" /></a> </p>
+
+<header>
+  <div align="center">
+    <a href="https://tanvir-resume.vercel.app">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%239528AF&label=Website&message=tanvir&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a href="https://twitter.com/webdevtanvir">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-webdevtanvir-9528AF?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a href="https://linkedin.com/in/webdevtanvir">
+      <img alt="My Linkedin Profile" src="https://img.shields.io/badge/LinkedIn-webdevtanvir-9528AF?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
+    </a>
+  </div>
+</header>
+<br />
+<div align='center'>
+      <a href="https://github.com/webdevtanvir">
+        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=webdevtanvir&style=flat&color=9528AF&label=This+week+GitHub+profile+views" />
+      </a>
+      <br />
+    </div>
+
+<details>
+  <summary><h2 style='background-image: linear-gradient(to right,#741F89,#B21155); padding: 4px 12px; border-radius: 10px'>🖯 RESUME</h2></summary>
+
+<details style='margin-left:40px'>
+  <summary><h3>👤 About Me</h3></summary>
 
 <h3 align="center">A Passionate Web Developer & Designer</h3>
 <p align='center'>I'm a seasoned FrontendWebDeveloper with 3 years of experience in crafting visually captivating and user-friendly websites.
@@ -36,8 +62,12 @@ enabling me to build dynamic and engaging user experiences. I'm dedicated to opt
 <a target="_blank" href="mailto:tanvir@seoartcreators.com"><img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" style="width: 30px" /></a> &nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/webdevtanvir"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 30px" /></a>
 
+</details>
 
-<h2>Language & Technologies I follow :man_technologist:</h2>
+<details style='margin-left:40px'>
+
+  <summary><h3>👨🏻‍💻 Language & Technologies I follow :man_technologist:</h3></summary>
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -168,20 +198,31 @@ enabling me to build dynamic and engaging user experiences. I'm dedicated to opt
 <br>
 </div>
 
-## Most Used Language
+</details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevtanvir\&layout=compact\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true)
+<details style='margin-left:40px'>
+  <summary><h3>🤖 Most Used Language</h3></summary>
 
-## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevtanvir\&layout=compact&show_icons=true\&bg_color=30,741F89,B21155\&title_color=fff\&text_color=fff&hide_border=true&card_width=450)
 
-![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevtanvir\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true)
+</details>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=webdevtanvir&theme=highcontrast&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450&background=30%2CE96443%2C904E95)](https://git.io/streak-stats)
 
-## Github Trophy
+<details style='margin-left:40px'>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=webdevtanvir\&bg_color=30,e96443,904e95\&title_color=fff)](https://github.com/ryo-ma/github-profile-trophy)
+  <summary><h3>📊 GitHub Stats</h3></summary>
 
-<p align="center"><a target="_blank" rel="noreferrer" href="https://github-readme-stats.vercel.app/api/wakatime?username=webdevtanvir%22%3E" <img src="https://github-readme-stats.vercel.app/api/wakatime?username=webdevtanvir" alt="Total time coded since Jul 07 2023" /></a></p>
+![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevtanvir&show_icons=true\&bg_color=30,741F89,B21155\&title_color=fff\&text_color=fff&hide_border=true&card_width=450)
 
-[![Tanvir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asif064)](https://github.com/webdevtanvir/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=webdevtanvir&theme=highcontrast&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450&background=45%2C741F89%2CB21155)](https://git.io/streak-stats)
+
+</details>
+
+<details style='margin-left:40px'>
+
+  <summary><h3>🏆 Trophy</h3></summary>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=webdevtanvir\&bg_color=30,741F89,B21155\&title_color=fff)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+</details>
