@@ -1,5 +1,22 @@
+<style>
+
+    .h2 {
+        background-image: linear-gradient(to right,#741F89,#B21155); 
+        padding-top: 4px; 
+        padding-right: 10px; 
+        padding-bottom: 4px; 
+        padding-left: 10px; 
+        border-radius: 10px;
+    }
+
+    .details {
+        margin-left:40px;
+    }
+
+</style>
+
 <a href="https://www.linkedin.com/in/webdevtanvir" target="_blank" rel="noreferrer">
-    <img src="Github Banner.gif" align="center" alt="banner" />
+    <img src="github-profile.png" align="center" alt="banner" />
 </a>
 
 
@@ -27,9 +44,9 @@
     </div>
 
 <details>
-  <summary><h2 style='background-image: linear-gradient(to right,#741F89,#B21155); padding: 4px 12px; border-radius: 10px'>🖯 RESUME</h2></summary>
+  <summary><h2 class='h2'>🖯 RESUME</h2></summary>
 
-<details style='margin-left:40px'>
+<details class='details'>
   <summary><h3>👤 About Me</h3></summary>
 
 <h3 align="center">A Passionate Web Developer & Designer</h3>
@@ -64,7 +81,7 @@ enabling me to build dynamic and engaging user experiences. I'm dedicated to opt
 
 </details>
 
-<details style='margin-left:40px'>
+<details class='details'>
 
   <summary><h3>👨🏻‍💻 Language & Technologies I follow :man_technologist:</h3></summary>
 
@@ -200,7 +217,7 @@ enabling me to build dynamic and engaging user experiences. I'm dedicated to opt
 
 </details>
 
-<details style='margin-left:40px'>
+<details class='details'>
   <summary><h3>🤖 Most Used Language</h3></summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevtanvir\&layout=compact&show_icons=true\&bg_color=30,741F89,B21155\&title_color=fff\&text_color=fff&hide_border=true&card_width=450)
@@ -208,7 +225,7 @@ enabling me to build dynamic and engaging user experiences. I'm dedicated to opt
 </details>
 
 
-<details style='margin-left:40px'>
+<details class='details'>
 
   <summary><h3>📊 GitHub Stats</h3></summary>
 
@@ -218,7 +235,7 @@ enabling me to build dynamic and engaging user experiences. I'm dedicated to opt
 
 </details>
 
-<details style='margin-left:40px'>
+<details class='details'>
 
   <summary><h3>🏆 Trophy</h3></summary>
 
