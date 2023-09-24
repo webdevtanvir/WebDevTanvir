@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 
     .h2 {
         background-image: linear-gradient(to right,#741F89,#B21155); 
@@ -13,7 +13,7 @@
         margin-left:40px;
     }
 
-</style>
+</style> -->
 
 <a href="https://www.linkedin.com/in/webdevtanvir" target="_blank" rel="noreferrer">
     <img src="github-profile.png" align="center" alt="banner" />
